@@ -7,7 +7,7 @@
 /**
  * Require to initialise MVC for LSC Application.
  */
-
+//test line
 //Site URL
 //error_reporting(0);
 require_once 'config/web_config.php';
